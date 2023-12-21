@@ -60,23 +60,28 @@ def max_marks(list1):
 ```
 ## Sample Input : 
 ### 1. 
-![output](/find%20question1.png)
+![find question1](https://github.com/Arun2005-create/FindMaximum/assets/138849356/a5c22baf-0290-4ea9-8031-b942105d7ab9)
+
 
 ### 2.
-![output](/find%20question2.png)
+![find question2](https://github.com/Arun2005-create/FindMaximum/assets/138849356/36870d00-988e-4d51-a1eb-7309f834b24f)
 
 ### 3.
-![output](/find%20question3.png) 
+![find question3](https://github.com/Arun2005-create/FindMaximum/assets/138849356/49c8b9d3-9e07-4e60-b6f8-b139f4a7df86)
+
 
 ## Output:
 ### 1.
-![output](/find%20answer1.png)
+![find answer1](https://github.com/Arun2005-create/FindMaximum/assets/138849356/41702d5a-7e6f-44c1-b088-beb62bbf2c03)
+
 
 ### 2.
-![outpuy](/find%20answer2.png)
+![find answer2](https://github.com/Arun2005-create/FindMaximum/assets/138849356/f6207642-3b42-42b5-8e45-1ae9a3b82c4a)
+
 
 ### 3.
-![output](/find%20answer3.png)
+![find answer3](https://github.com/Arun2005-create/FindMaximum/assets/138849356/61057192-d3c3-423b-9e3b-50c4dc128671)
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
