@@ -14,8 +14,8 @@ i)	# To find the maximum of marks using the list method sort.
 ```Python
 ''' 
 Program to mark the maximum of marks using the list method sort
-Developed by: 
-RegisterNumber: 
+Developed by: Arun Kumar B
+RegisterNumber: 23004514
 '''
 def max_marks(marks):
    marks.sort()
@@ -29,8 +29,8 @@ ii)	# To find the maximum marks using the list method max().
 ```Python
 ''' 
 Program to find the maximum marks using the list method max().
-Developed by: 
-RegisterNumber: 
+Developed by: Arun Kumar B
+RegisterNumber: 23004514
 '''
 def max_marks(marks):
    marks.sort()
@@ -45,8 +45,8 @@ iii) # To find the maximum marks without using builtin functions.
 ```Python
 ''' 
 Program to the maximum marks without using builtin functions.
-Developed by: 
-RegisterNumber: 
+Developed by: Arun Kumar B
+RegisterNumber: 23004514
 '''
 def max_marks(list1):
     max = list1[0]
@@ -72,15 +72,16 @@ def max_marks(list1):
 
 ## Output:
 ### 1.
-![find answer1](https://github.com/Arun2005-create/FindMaximum/assets/138849356/41702d5a-7e6f-44c1-b088-beb62bbf2c03)
+![find answer1](https://github.com/Arun2005-create/FindMaximum/assets/138849356/1a220189-c908-44fb-aacd-de263c4c5eab)
 
 
 ### 2.
-![find answer2](https://github.com/Arun2005-create/FindMaximum/assets/138849356/f6207642-3b42-42b5-8e45-1ae9a3b82c4a)
+![find answer2](https://github.com/Arun2005-create/FindMaximum/assets/138849356/d8e7b432-b29e-4413-8a58-32245e84db7c)
 
 
 ### 3.
-![find answer3](https://github.com/Arun2005-create/FindMaximum/assets/138849356/61057192-d3c3-423b-9e3b-50c4dc128671)
+![find answer3](https://github.com/Arun2005-create/FindMaximum/assets/138849356/c00c19a5-198b-423a-b849-a7b52b04f90e)
+
 
 
 ## Result:
